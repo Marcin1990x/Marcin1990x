@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, My name is Marcin</h1>
+<h1 align="center">Hi 👋, my name is Marcin</h1>
 <h3 align="center">I'm determined to be java developer / full-stack developer to have fun, satisfaction from work
 and develop business and earn money for my future employer. </h3>
 
