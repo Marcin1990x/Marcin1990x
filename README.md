@@ -3,10 +3,6 @@
 <h3 align="center">I'm determined to be java developer / full-stack developer to have fun, satisfaction from work
 and develop business and earn money for my future employer. </h3>
 
-<p>I'm still learning new technologies. I try to make the applications I write functional, error-free and look perfect.
-I wrote some cool web applications and participated in a web application development team.</p>
-
-
 
 - 🔭 I’m currently working on Triathlon Training Management application (https://github.com/Marcin1990x/triathlon-training-management-application)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcin1990x&show_icons=true&locale=en&layout=compact" alt="Marcin1990x"/></p>
