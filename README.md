@@ -11,7 +11,8 @@ and develop business and earn money for my future employer. </h3>
 
 <br>
 
-<h3 align="left">Contact me:</h3>
+> [!TIP]
+> Contact me : 
 <p align="left">
 <a href="https://www.linkedin.com/in/marcin-konecki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karol-bernatowicz" height="30" width="40" /></a>
 </p>
