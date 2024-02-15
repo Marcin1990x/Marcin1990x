@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, my name is Marcin</h1>
-<h3 align="center">I'm determined to be java developer / full-stack developer to have fun, satisfaction from work
-and develop business and earn money for my future employer. </h3>
+<h3 align="center">I'm determined to become java developer / full-stack developer. Programming, fixing and cleaning code gives me a lot of satisfaction and fun.
+I want to develop business and earn money for me and my future employer. </h3>
 
 
 - 🔭 I’m currently working on Triathlon Training Management application:  https://github.com/Marcin1990x/triathlon-training-management-application
+  and I'm continously improving my Electrical Protocols Manager application which is used by electricians in real: https://github.com/Marcin1990x/electrical-protocols-manager
   
 - I'm currently learning:
   
