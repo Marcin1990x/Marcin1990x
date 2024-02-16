@@ -12,7 +12,7 @@ and I'm continously improving my Electrical Protocols Manager application which 
   
 - I'm currently learning:
   
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="50" height="50"/> 
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="50" height="50"/> 
 
 
 <h3 align="left">Contact me : <a href="https://www.linkedin.com/in/marcin-konecki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcin-konecki" height="30" width="40" /></a> </h3>
