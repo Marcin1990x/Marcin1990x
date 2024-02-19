@@ -19,10 +19,10 @@ and I'm continously improving my Electrical Protocols Manager application which 
     <p align="left">
         <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png" alt="java" width="80" height="50"/> 
         <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt="spring" width="90" height="50"/> 
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="" height="50"/>
         <img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" alt="reactjs" width="" height="50"/>
         <img src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" alt="js" width="" height="50"/>
         <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="" height="50"/>
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="" height="50"/>
         <img src="https://junit.org/junit4/images/junit5-banner.png" alt="junit5" width="" height="50"/>
         <img src="https://javadoc.io/static/org.mockito/mockito-core/1.9.5/org/mockito/logo.jpg" alt="mockito" width="" height="50"/>
@@ -31,7 +31,8 @@ and I'm continously improving my Electrical Protocols Manager application which 
     </p>
 
 
-<h3 align="left">Contact me : <a href="https://www.linkedin.com/in/marcin-konecki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcin-konecki" height="30" width="40" /></a> </h3>
+    <h3 align="left">Contact me : <a href="https://www.linkedin.com/in/marcin-konecki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcin-konecki" height="30" width="40" /></a> </h3>
+    <h3 align="left">E-mail : marcin.konecki21@gmail.com </h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcin1990x&show_icons=true&locale=en&layout=compact" alt="Marcin1990x"/></p>
 
