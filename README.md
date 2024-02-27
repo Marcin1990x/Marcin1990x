@@ -18,7 +18,8 @@ and I'm continously improving my Electrical Protocols Manager application which 
   
     <p align="left">
         <img src="https://ultimateqa.com/wp-content/uploads/2020/12/Java-logo-icon-1.png" alt="java" width="80" height="50"/> 
-        <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt="spring" width="90" height="50"/> 
+        <img src="https://e4developer.com/wp-content/uploads/2018/01/spring-boot.png" alt="spring" width="90" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1280px-Apache_Maven_logo.svg.png" alt="maven" width="" height="50"/>
         <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="" height="50"/>
         <img src="https://faq.o2switch.fr/_media/tuto-rapide/o2switch-deployer-react.js.png" alt="reactjs" width="" height="50"/>
         <img src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" alt="js" width="" height="50"/>
