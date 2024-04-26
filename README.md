@@ -7,6 +7,8 @@ I want to develop business and earn money for me and my future employer. </h3>
 
 - 🔭 I’m currently working on Triathlon Training Management application: <br>
   https://github.com/Marcin1990x/triathlon-training-management-application <br>
+and its microservices version: <br>
+  https://github.com/Marcin1990x/triathlon-training-management-application-microservices <br>
 and I'm continously improving my Electrical Protocols Manager application which is used by electricians in real: <br>
   https://github.com/Marcin1990x/electrical-protocols-manager
   
