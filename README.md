@@ -6,17 +6,11 @@ I want to develop business and earn money for me and my future employer. </h3>
 
 
 - 🔭 I’m currently working on Triathlon Training Management application: <br>
-  https://github.com/Marcin1990x/triathlon-training-management-application <br>
-and its microservices version: <br>
   https://github.com/Marcin1990x/triathlon-training-management-application-microservices <br>
-and I'm continously improving my Electrical Protocols Manager application which is used by electricians in real: <br>
-  https://github.com/Marcin1990x/electrical-protocols-manager
   
 - I'm currently learning:
-  
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="50" height="50"/>
-    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Pbb5rmrwh-eAFWXd8ws79A.png" alt="k8s" width="" height="50"/>
     <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="k8s" width="" height="50"/>
+    <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="k8s" width="" height="50"/>
     
 - Languages and Tools:
   
