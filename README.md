@@ -9,8 +9,8 @@ I want to develop business and earn money for me and my future employer. </h3>
   https://github.com/Marcin1990x/triathlon-training-management-application-microservices <br>
   
 - I'm currently learning:
-    <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="k8s" width="" height="50"/>
-    <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="k8s" width="" height="50"/>
+    <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="kafka" width="" height="50"/>
+    <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="native" width="" height="50"/>
     
 - Languages and Tools:
   
@@ -23,11 +23,15 @@ I want to develop business and earn money for me and my future employer. </h3>
         <img src="https://jaki-jezyk-programowania.pl/img/technologies/javascript.png" alt="js" width="" height="50"/>
         <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="" height="50"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="" height="50"/>
+        <img src="https://miro.medium.com/v2/resize:fit:1220/0*epnKnkKuLx2RAajt" alt="postgres" width="" height="50"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYP2wh48_6wrG4tZleiAngKQ0ThkCjuKaSzw&s" alt="mongo" width="" height="50"/>
         <img src="https://junit.org/junit4/images/junit5-banner.png" alt="junit5" width="" height="50"/>
         <img src="https://javadoc.io/static/org.mockito/mockito-core/1.9.5/org/mockito/logo.jpg" alt="mockito" width="" height="50"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="" height="50"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="" height="50"/>
         <img src="https://welovedevs.com/wp-content/uploads/2022/08/postman-logo-1.png" alt="postman" width="" height="50"/>
+        <img src="https://www.meshiq.com/wp-content/uploads/rabbitmq.png" alt="rabbitmq" width="" height="50"/>
+        <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="kafka" width="" height="50"/>
     </p>
 
 
