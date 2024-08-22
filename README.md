@@ -9,8 +9,10 @@ I want to develop business and earn money for me and my future employer. </h3>
   https://github.com/Marcin1990x/triathlon-training-management-application-microservices <br>
   
 - I'm currently learning:
+  <p align="left">
     <img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="kafka" width="" height="50"/>
     <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="native" width="" height="50"/>
+  </p>
     
 - Languages and Tools:
   
