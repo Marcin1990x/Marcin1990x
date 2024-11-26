@@ -6,8 +6,8 @@ I want to develop business and earn money for me and my future employer. </h3>
 
 
 - 🔭 I’m currently working on my commercial project, the Make Triathlon Easier application: <br>
-  [Link Text](https://github.com/Marcin1990x/MTE)
- <br>
+  [Make-Triathlon-Easier app](https://github.com/Marcin1990x/MTE) <br>
+ 
   
 - I'm currently learning:
   <p align="left">
