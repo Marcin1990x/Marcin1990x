@@ -6,7 +6,10 @@ I want to develop business and earn money for me and my future employer. </h3>
 
 
 - 🔭 I’m currently working on my commercial project, the Make Triathlon Easier application: <br>
-  [Make-Triathlon-Easier app](https://github.com/Marcin1990x/MTE) <br>
+  [Make-Triathlon-Easier mobile application](https://github.com/Marcin1990x/MTE) <br>
+
+- 🔭 previous project for my development, the Triathlon Training Management web application: <br>
+  [Triathlon Training Management web application](https://github.com/Marcin1990x/triathlon-training-management-application-microservices) <br>
  
   
 - I'm currently learning:
